@@ -5,4 +5,4 @@ header_pages:
   - Skills.md
   - WorkExperience.md
   - WorkExamples.md
-head: _includes/head.md
+minima: _includes/head.md
