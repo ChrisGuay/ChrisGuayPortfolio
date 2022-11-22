@@ -1,4 +1,3 @@
-# Skills
 
 ## Technical Skills
 ### Certified in Microsoft Excel, PowerPoint, Word, and Access<br>
