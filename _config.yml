@@ -1,1 +1,7 @@
-
+theme: minima
+title: Chris Guay's Portfolio
+header_pages: 
+  - README.md
+  - Skills.md
+  - WorkExperience.md
+  - WorkExamples.md
