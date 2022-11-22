@@ -1,5 +1,5 @@
-# About Me 
- 
+# Chris Guay
+
 Welcome to my GitHub portfolio!
 
 ## Contact Information
