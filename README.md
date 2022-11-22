@@ -15,5 +15,5 @@ Welcome to my GitHub portfolio!
 **Overall GPA:** 3.90 <br>
 **Major GPA:** 3.97 <br>
 
-***Evergreen High School***
+***Evergreen High School***<br>
 **Graduated:** 2019
