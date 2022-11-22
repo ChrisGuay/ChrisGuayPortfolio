@@ -17,3 +17,6 @@ Welcome to my GitHub portfolio!
 
 ***Evergreen High School***<br>
 **Graduated:** 2019
+
+## Hobbies and Interest
+I enjoy getting outside and hiking, sking, mountain biking, etc. I also enjoy learning new skills. Currently, I have been learning to use new programs like Power BI. Other than getting outside, I enjoy following sports. My favorites are hockey and baseball. I also enjoy watching movies and attending concerts at Red Rocks. 
