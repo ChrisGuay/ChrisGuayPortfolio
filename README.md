@@ -5,8 +5,8 @@ Welcome to my GitHub portfolio!
 
 ## Contact Information
 **Location:** Denver, CO<br>
-**Email:** chrisguay52@yahoo.com<br>
 **Phone:** 720-402-9395<br> 
+**Email:** chrisguay52@yahoo.com<br>
 **LinkedIn:** https://www.linkedin.com/in/christopher-guay-674a331a0/
 
 ## Educational Experience
