@@ -1,7 +1,3 @@
-git add _includes
-git commit -m "add a directory content
-git push 
-
 # About Me
 ## Chris Guay
 
