@@ -5,5 +5,4 @@ header_pages:
   - Skills.md
   - WorkExperience.md
   - WorkExamples.md
-skin: dark
-head: <head>
+head: _includes/head.md
